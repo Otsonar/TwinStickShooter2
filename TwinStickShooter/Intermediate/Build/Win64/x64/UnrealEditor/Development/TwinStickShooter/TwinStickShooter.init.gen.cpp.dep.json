@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\0ssis\\desktop\\unreal projects\\twinstickshooter2ndzip\\twinstickshooter2ndzip\\twinstickshooter\\intermediate\\build\\win64\\unrealeditor\\inc\\twinstickshooter\\uht\\twinstickshooter.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\0ssis\\desktop\\unreal projects\\twinstickshooter2ndzip\\twinstickshooter2ndzip\\twinstickshooter\\intermediate\\build\\win64\\x64\\twinstickshootereditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.inclorderoldest.h.pch",
+        "Includes": [
+            "c:\\users\\0ssis\\desktop\\unreal projects\\twinstickshooter2ndzip\\twinstickshooter2ndzip\\twinstickshooter\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\twinstickshooter\\definitions.twinstickshooter.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

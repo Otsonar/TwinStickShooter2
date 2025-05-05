@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\0ssis\\Desktop\\Unreal Projects\\TwinStickShooter2ndZIP\\TwinStickShooter2ndZIP\\TwinStickShooter\\Source\\TwinStickShooter\\TwinStickShooter.Build.cs",
+		"C:\\Users\\0ssis\\Desktop\\Unreal Projects\\TwinStickShooter2ndZIP\\TwinStickShooter2ndZIP\\TwinStickShooter\\Source\\TwinStickShooter.Target.cs",
+		"C:\\Users\\0ssis\\Desktop\\Unreal Projects\\TwinStickShooter2ndZIP\\TwinStickShooter2ndZIP\\TwinStickShooter\\Source\\TwinStickShooterEditor.Target.cs"
+	],
+	"EngineVersion": "5.4.4"
+}

@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-TwinStickShooter.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\0ssis\Desktop\Unreal Projects\TwinStickShooter2ndZIP\TwinStickShooter2ndZIP\TwinStickShooter\Intermediate\Build\Win64\x64\TwinStickShooterEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.InclOrderOldest.h.obj"
+"C:\Users\0ssis\Desktop\Unreal Projects\TwinStickShooter2ndZIP\TwinStickShooter2ndZIP\TwinStickShooter\Intermediate\Build\Win64\x64\UnrealEditor\Development\TwinStickShooter\BaseCharacter.gen.cpp.obj"
+"C:\Users\0ssis\Desktop\Unreal Projects\TwinStickShooter2ndZIP\TwinStickShooter2ndZIP\TwinStickShooter\Intermediate\Build\Win64\x64\UnrealEditor\Development\TwinStickShooter\TwinStickShooter.init.gen.cpp.obj"
+"C:\Users\0ssis\Desktop\Unreal Projects\TwinStickShooter2ndZIP\TwinStickShooter2ndZIP\TwinStickShooter\Intermediate\Build\Win64\x64\UnrealEditor\Development\TwinStickShooter\BaseCharacter.cpp.obj"
+"C:\Users\0ssis\Desktop\Unreal Projects\TwinStickShooter2ndZIP\TwinStickShooter2ndZIP\TwinStickShooter\Intermediate\Build\Win64\x64\UnrealEditor\Development\TwinStickShooter\TwinStickShooter.cpp.obj"
+"C:\Users\0ssis\Desktop\Unreal Projects\TwinStickShooter2ndZIP\TwinStickShooter2ndZIP\TwinStickShooter\Intermediate\Build\Win64\x64\UnrealEditor\Development\TwinStickShooter\Default.rc2.res"
+/OUT:"C:\Users\0ssis\Desktop\Unreal Projects\TwinStickShooter2ndZIP\TwinStickShooter2ndZIP\TwinStickShooter\Intermediate\Build\Win64\x64\UnrealEditor\Development\TwinStickShooter\UnrealEditor-TwinStickShooter.lib"
